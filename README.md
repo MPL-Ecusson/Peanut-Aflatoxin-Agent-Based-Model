@@ -1,6 +1,8 @@
 # Peanut-Aflatoxin-Agent-Based-Model
 Project from DSTI Agent Based Modeling Class
 
+This model can also be accessed at Modeling Commons (http://modelingcommons.org/browse/one_model/7169#model_tabs_browse_info)
+
 
 Aspergillus flavus is a toxigenic fungus that can infect grains before and after harvest in hot and humid areas, producing a potent carcinogen know as aflatoxin. Using the ABM software NetLogo, we model the infection and growth of A. flavus in a peanut field over a growing season and the contamination of peanut kernels due to aflatoxins.
 
